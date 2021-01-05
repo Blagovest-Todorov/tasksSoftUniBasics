@@ -1,0 +1,2 @@
+# tasksSoftuniBasics
+some solved tasks
